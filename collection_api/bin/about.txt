@@ -1,0 +1,3 @@
+Name = Varsha Vaitla
+Age = 23
+City = Solapur
